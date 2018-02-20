@@ -1,0 +1,10 @@
+url	download_complete
+www.ics.uci.edu/about/brenhall/index.php	complete
+www.ics.uci.edu/faculty/highlights	incomplete
+www.ics.uci.edu/about	complete
+www.ics.uci.edu/about/about_deanmsg.php	incomplete
+www.ics.uci.edu/dept	incomplete
+www.ics.uci.edu/about/visit/index.php	complete
+www.ics.uci.edu/about/about_factsfigures.php	incomplete
+www.ics.uci.edu	complete
+www.ics.uci.edu/about/about_contact.php	incomplete
